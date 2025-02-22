@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Insung"
 description              : "An amazing website."
-url                      : "https://insung.github.io"
+url                      : "https://in27sung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "in27sung/in27sung.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https:/in27sung/github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https:/in27sung/github.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
