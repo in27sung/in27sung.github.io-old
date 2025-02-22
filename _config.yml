@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "contrast", # "default", "air", "aqua",  "dark", "dir
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Insung' blg"
+title                    : "Insung' blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Insung"
 description              : "An amazing website."
-url                      : "https://in27sung.github.io"
+url                      : "https://insung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "in27sung/in27sung.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
